@@ -1,0 +1,27 @@
+
+                            
+/* DESARROLLO */
+
+Este sitio fue desarrollo por :
+Ulises Legarreta 
+Diseñado por :
+Octavio Flores.
+En :
+Tijuana ,BC México
+		
+
+							
+/* GRACIAS */
+
+A Zurb.com por la maravilla que es Foundation, foundation.zurb.com
+
+                            
+/* SITE */
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: Modernizr, jQuery
+
+                            
+Software: Sublime text 2, filezilla, Photoshop, Sourcetree, GIT.

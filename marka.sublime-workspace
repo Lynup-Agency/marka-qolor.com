@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"more",
+				"more-news"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"reason",
+				"reasonindicator"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"news",
+				"news-item"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"ja",
+				"javascript"
+			],
+			[
+				"javasc",
+				"javascripts"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"marka",
+				"markaHeading"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"contac",
+				"contact-icons"
+			],
+			[
+				"goo",
+				"googleplus"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"lin",
+				"linkedin"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"java",
+				"javascripts"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"active",
+				"active-reason-icon"
+			],
+			[
+				"ac",
+				"active-reason-icon"
+			],
+			[
+				"tal",
+				"teal"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"http",
+				"httpd-vhosts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stylesheets/app.css",
+			"settings":
+			{
+				"buffer_size": 16298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 5988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/wp-content/themes/twentythirteen/style.css",
+			"settings":
+			{
+				"buffer_size": 52731,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa	",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack	",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/jquery.stickyfooter.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/stylesheets/foundation.css",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/index.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/nav.inc",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/team.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/blog/wp-content/themes/twentythirteen/functions.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/news.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/jquery.magnific-popup.min.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/ecofriendly.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/quality.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/products.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/services.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/advantages.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/stylesheets/movil.css",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/stylesheets/app.css",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/index2.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/app.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/modernizr.foundation.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/about-us.php",
+		"/Users/ulises/Library/Application Support/Sublime Text 2/Packages/User/foundation-row.sublime-snippet",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/jquery.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/contact.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/contact.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/test.php",
+		"/Users/ulises/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/wp-events-calendar-plugin-1.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/blog/wp-config.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/marka.sublime-workspace",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/contactengine.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/sitefades.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/maximgmarka.js",
+		"/Users/ulises/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/stylesheets/jquery.maximage.css",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/chavarinvelazco/wp-config.php",
+		"/Users/ulises/Desktop/fotografika files online/fotografika.com.mx/public_html/sdo/app/View/Pages/home.ctp",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/humans.txt",
+		"/private/var/folders/5q/hnq64j1d2bb5yn51bv5h50xw0000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/5q/hnq64j1d2bb5yn51bv5h50xw0000gn/T/fz3temp-1/bootstrap.php",
+		"/Users/ulises/Documents/ProyectosFGK/Telnor/liferay-local/advdev-sdk/themes/TelnorResidencial-theme/docroot/css/custom.css",
+		"/private/var/folders/5q/hnq64j1d2bb5yn51bv5h50xw0000gn/T/fz3temp-1/all.css",
+		"/Users/ulises/Downloads/MaxImage-master/examples/basic_13.html",
+		"/Users/ulises/Downloads/MaxImage-master/examples/basic.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/images/background-ecofriendly-1940x1229.jpg",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/jquery.maximage.min.js",
+		"/Users/ulises/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ulises/Documents/ProyectosFGK/Telnor/liferay-local/advdev-sdk/build.properties",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/tonykamo/wp-content/plugins/wp-events-calendar-plugin/public/index.php",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/javascripts/foundation.min.js",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/.htaccess",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/megaexpress/index.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/about-us.html",
+		"/Users/ulises/Desktop/islo2.vm",
+		"/Users/ulises/Desktop/telmex-aeromexico-playa-telnor/index.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/marka.sublime-project",
+		"/Users/ulises/Desktop/RAC2013/html/rac2013.html",
+		"/Applications/mampstack-5.4.17-0/apache2/conf/bitnami/bitnami.conf",
+		"/Applications/mampstack-5.4.17-0/apache2/conf/httpd.conf",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting/index.html",
+		"/Applications/mampstack-5.4.17-0/apache2/conf/extra/httpd-vhosts.conf",
+		"/Users/ulises/Downloads/foundation/index.html",
+		"/Applications/mampstack-5.4.17-0/apache2/conf/bitnami/bitnami-apps-vhosts.conf",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/index.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/css/base.css",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/colaboracion-conferencia-webex.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/colaboracion-webex.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/colaboracion-office365.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/colaboracion-correo-exchange.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/infraestructura-servidores-virtuales.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/por-que-telnor.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/presencia-web.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/seguridad-respaldo-pc.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/terminos-condiciones.html",
+		"/Applications/mampstack-5.4.17-0/apache2/htdocs/cloud/tabla.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/cloud/sublime.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/cloud/.gitignore",
+		"/Users/ulises/Desktop/florido/footer-contact.php",
+		"/Users/ulises/Desktop/florido/footer.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/ulises/Desktop/florido/developments-wide.php",
+		"/Users/ulises/Desktop/florido/developments-1900.php",
+		"/Users/ulises/Desktop/florido/custom-tricks.php",
+		"/Users/ulises/Desktop/florido/contact.php",
+		"/Users/ulises/Desktop/florido/developments.php",
+		"/Users/ulises/Desktop/florido/header.php",
+		"/Users/ulises/Desktop/eee.txt",
+		"/Users/ulises/.filezilla/filezilla.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/mampstack-5.4.17-0/apache2/htdocs/markaprinting"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-family",
+			"footer",
+			"body",
+			"cont",
+			"26px",
+			"77",
+			"nav-bar",
+			"145",
+			"+ ",
+			"p",
+			".adva",
+			"active",
+			"foundation",
+			"tijuana",
+			"welcometo",
+			"b2x1",
+			"horizontal",
+			"b2x1",
+			"bl",
+			"b1x1",
+			"userLocation",
+			"userAvatarUrl",
+			"userWebsite",
+			"username",
+			"contenidos",
+			"background-advantages",
+			"fark",
+			"media",
+			"products",
+			"mensaje",
+			"correo",
+			"nombre",
+			"megaexpressform",
+			"h1.",
+			"media",
+			"767",
+			"h2",
+			"centered",
+			"h1",
+			"10px 10px 10px 10px",
+			"10px 10px 5px 0px rgba(0,0,0,0.75)",
+			"red",
+			"googleplus",
+			"shadow",
+			".reduc",
+			"script",
+			"src",
+			"\"",
+			"imagesloaded",
+			"foo",
+			"stylesheets",
+			"hide",
+			"div",
+			"8080",
+			"virtualhost",
+			"directory /",
+			"virtual host",
+			"servicios",
+			"footer",
+			"src",
+			"=\"",
+			"session.save_path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stylesheets/app.css",
+					"settings":
+					{
+						"buffer_size": 16298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "contact.php",
+					"settings":
+					{
+						"buffer_size": 5988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3515,
+								3515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1329.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/wp-content/themes/twentythirteen/style.css",
+					"settings":
+					{
+						"buffer_size": 52731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3255,
+								3255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2331.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true
+}

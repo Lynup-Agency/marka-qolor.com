@@ -1,0 +1,26 @@
+
+
+@media only screen and (max-width: 767px) {   /* dispositivos moviles or less   */
+    
+    h1.aboutUs, h1.advantages, h1.contact, h1.ecofriendly, h1.products, h1.quality, h1.services, h1.news {margin: 50px 0 30px 0;}
+    #qualityIcon {margin-top: 45px}
+    h1.aboutUs {margin-bottom: 15px;}
+    h1.advantages {margin-bottom: 30px}     
+    #formContainer {margin: 50px 0 0 0 }
+    .more-news {  margin-top: 20px }
+    .news-item-content{ margin-bottom: 16px}
+    .moretag { bottom: 17px}
+    .fark {margin-left: 0}
+
+}
+
+@media only screen and (min-width: 768px) {  /*  dispositivos desktop o mas.. */
+
+h1.aboutUs { margin: 145px 0 45px 0;}
+h1.ecofriendly { margin: 145px 0 0 0;}
+h1.quality { margin: 40px 0 0 0;}
+h1.contact { margin: 145px 0 0 0; text-align: left;}
+h1.advantages { margin: 145px 0 45px 0;}
+h1.services{  margin: 145px 0 0 0;}
+#qualityIcon { margin: 98px 0 0 0;}
+}
