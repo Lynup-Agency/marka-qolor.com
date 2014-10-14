@@ -1,0 +1,5 @@
+/*lynup extends*/
+
+.row, .contain-to-grid .top-bar{
+	width: 960px;
+}

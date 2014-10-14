@@ -1,0 +1,5 @@
+/*lynup extends*/
+
+.row{
+	width: 960px;
+}

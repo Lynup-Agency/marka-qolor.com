@@ -1,31 +1,21 @@
  // logica para la validacion y envio de la forma de contacto
     function exito (){
-        // avisamos del exito, cerramos el pop, reactivamos el boton de enviar.
-                   
+        // avisamos del exito, cerramos el pop, reactivamos el boton de enviar.                   
         //$.fancybox.open('<h2>Thank you.</h2><p>We\'ll get in touch with you soon.</p>', {
         //    wrapCSS:'exitoPop'
        // });
-         alert('exito!');
+         // alert('exito!');
 
-    }
-                
-                
+    }        
     $("#markaform").submit(function() {
-
         //checamos si pasa validacion la forma para hacer el ajax submit
-        if($("#markaform").validate().form()) {
-                                           
-
+        if($("#markaform").validate().form()) {     
             $('.sendButton').attr('disabled', true);
-
             var inputs = [];
-
             // array
             $(':input, textarea', this).each(function() {
                 inputs.push(this.name + '=' + escape(this.value));
-            });
-            
-
+            });     
                                                 
             $.ajax({
                 type : "POST",
@@ -34,13 +24,12 @@
                 success : exito()
             });
             return false;
-        }else {
-                                            
+        }else {                                            
         }
     });
+
     // validate the comment form when it is submitted
-    $("#markaform").validate({
-             
+    $("#markaform").validate({             
         rules : {
             name: {
                 required: true

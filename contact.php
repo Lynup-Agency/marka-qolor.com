@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="stylesheets/app.css">
   <link rel="stylesheet" href="stylesheets/movil.css">
   <link rel="stylesheet" href="stylesheets/jquery.maximage.css?v=1.2" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="stylesheets/lynup-extends.css">
 
   <style type="text/css">
       html, body {   /* para no romper el plugin de sticky footer*/
@@ -44,7 +45,7 @@
             <p>Feel free to drop us a line or send your brief.</p>
 
             <ul>
-               <li><a href="mailto:contact@markaprinting.com" class="contact-icon mail">contact@marka-mexico.com</a></li>
+               <li><a href="mailto:info@marka-qolor.com" class="contact-icon mail">info@marka-qolor.com</a></li>
                <li><a href="tel:52664000-0000" class="contact-icon phone">+52(664)622.2010</a></li>
                <li class="contact-icon location">Tijuana, Baja California</li> 
             </ul>
@@ -53,7 +54,7 @@
             <p>Follow us to be always up to date.</p>
 
             <ul>
-                <li><a href="#" class="contact-icon facebook">Facebook</a></li>
+                <li><a href="https://www.facebook.com/pages/MARKA-Printing/300614083415276" class="contact-icon facebook">Facebook</a></li>
                 <li><a href="#" class="contact-icon linkedin">Linkedin</a></li>
                 <li><a href="#" class="contact-icon googleplus">Google+</a></li>
                 <li><a href="#" class="contact-icon twitter">Twitter</a></li>
@@ -96,7 +97,7 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- FACEBOOK share -->
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmarka-mexico.com" target="_blank" class="fbShare hide-text">
+<a href="https://www.facebook.com/pages/MARKA-Printing/300614083415276" target="_blank" class="fbShare hide-text">
   Share on Facebook
 </a>
 

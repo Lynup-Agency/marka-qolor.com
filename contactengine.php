@@ -1,7 +1,7 @@
 <?php
 
 $EmailFrom = "formadecontacto@marka-mexico.com";
-$EmailTo = "rotarypot@gmail.com";
+$EmailTo = "info@marka-qolor.com";
 $Subject = "Forma de contacto - Marka-Mexico.Com";
 
 

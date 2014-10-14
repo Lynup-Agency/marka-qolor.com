@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="stylesheets/app.css">
   <link rel="stylesheet" href="stylesheets/movil.css">
   <link rel="stylesheet" href="stylesheets/jquery.maximage.css?v=1.2" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="stylesheets/lynup-extends.css">
 
   <script src="javascripts/modernizr.foundation.js"></script>
 </head>
@@ -29,12 +30,12 @@ We have outgrown our infancy..
 
     <div class="row">
       <div class="ten columns centered text-center">
-        <img src="images/intro-marka-logo.png" style="margin-top:25%">
+        <img src="images/intro-marka-logo2.png" style="margin-top:25%">
       </div>
     </div>
     <div class="row">
       <div class="sixteen columns text-center">
-        <img src="images/intro-slogan.png" style="margin-top:5%">
+        <img src="images/intro-slogan.png" style="margin-top:2%">
         <a href="#welcometomarka" class="scrolllink hide-text" style="margin: 20% auto 0 auto;">Scroll down to learn more</a>
 
       </div>

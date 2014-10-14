@@ -3,7 +3,7 @@
     <div class="sixteen columns">
       <nav class="top-bar">
         <ul>
-          <li class="name"><h1><a href="/"><img src="/images/logo-marka2.png"></a></h1></li>
+          <li class="name"><h1><a href="/"><img src="images/logo-marka2-nav.png"></a></h1></li>
           <li class="toggle-topbar"><a href="#"></a></li>
         </ul>
         <section>

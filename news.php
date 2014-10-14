@@ -20,6 +20,7 @@ require('blog/wp-blog-header.php');
   <link rel="stylesheet" href="/stylesheets/app.css">
   <link rel="stylesheet" href="/stylesheets/movil.css">
   <link rel="stylesheet" href="/stylesheets/jquery.maximage.css?v=1.2" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="stylesheets/lynup-extends.css">
 
 
   <!-- modernize browser.. -->
